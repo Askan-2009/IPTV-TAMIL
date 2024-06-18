@@ -87,3 +87,9 @@ https://mpd-v1.bigcric.site/api/239.mpd
 
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/SONY_YAY.png/revision/latest?cb=20221023221825" tvg-name="" group-title="",26)SONY YAY
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100152
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=200&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="TATA PLAY ▶ |  Tamil",Kalaignar TV
+https://mpd-v1.bigcric.site/api/200.mpd
