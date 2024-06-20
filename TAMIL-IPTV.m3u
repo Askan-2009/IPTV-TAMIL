@@ -2,16 +2,17 @@
 
 #EXTINF:-1, tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" tvg-id="1" tvg-name="" group-title="",SUN TV HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100157
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507" tvg-id="3" tvg-name="" group-title="",STAR VIJAY HD
+#EXTINF:-1,tvg-chno="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507" tvg-id="3" tvg-name="" group-title="",STAR VIJAY HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100153
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" tvg-id="4" tvg-name="" group-title="",ZEE TAMIL HD
+#EXTINF:-1,tvg-chno="3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" tvg-id="4" tvg-name="" group-title="",ZEE TAMIL HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100169
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=200&key
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
+#EXTINF:-1 tvg-id=tatasky_200      
+tvg-chno="4" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
 https://mpd-v1.bigcric.site/api/200.mpd
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest?cb=20191224100831" tvg-id="" tvg-name="" group-title="",POLIMER TV
+#EXTINF:-1,  tvg-chno="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest?cb=20191224100831" tvg-id="" tvg-name="" group-title="",POLIMER TV
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100140
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png/revision/latest?cb=20240314115038" tvg-id="" tvg-name="" group-title="",COLORS TAMIL HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100109
