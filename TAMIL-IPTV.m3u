@@ -1,11 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" tvg-id="1" tvg-name="" group-title="",SUN TV HD
+http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100157
+#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507" tvg-id="3" tvg-name="" group-title="",STAR VIJAY HD
+http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100153
+#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" tvg-id="4" tvg-name="" group-title="",ZEE TAMIL HD
+http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100169
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=200&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
+https://mpd-v1.bigcric.site/api/200.mpd
+#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest?cb=20191224100831" tvg-id="" tvg-name="" group-title="",POLIMER TV
+http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100140
+#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png/revision/latest?cb=20240314115038" tvg-id="" tvg-name="" group-title="",COLORS TAMIL HD
+http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100109
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047" tvg-id="" tvg-name="" group-title="",VIJAY SUPER HD
+http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100167
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20240314122345"  tvg-id="" tvg-name="" group-title="",ADHTIYA TV
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100100
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20240314122637" tvg-id="" tvg-name="" group-title="",CHUTTI TV
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100108
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png/revision/latest?cb=20240314115038" tvg-id="" tvg-name="" group-title="",COLORS TAMIL HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100109
+
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20240318082328" tvg-id="" tvg-name="" group-title="",DISCOVERY WORLD HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100113
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/History_TV18.jpg/revision/latest/scale-to-width-down/250?cb=20171207202924" tvg-id="" tvg-name="" group-title="",HISTORY TV18 HD
@@ -20,28 +55,23 @@ http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100135
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100136
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Polimer_News.jpeg/revision/latest?cb=20191224101515" tvg-id="" tvg-name="" group-title="",POLIMER NEWS
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100139
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest?cb=20191224100831" tvg-id="" tvg-name="" group-title="",POLIMER TV
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100140
+
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436" tvg-id="" tvg-name="" group-title="",PUTHIYA THALIMURAI
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100141
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507" tvg-id="3" tvg-name="" group-title="",STAR VIJAY HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100153
+
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Sun_Life_2018.jpg/revision/latest?cb=20240315194602" tvg-id="" tvg-name="" group-title="",SUN LIFE
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100154
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20240314122158" tvg-id="" tvg-name="" group-title="",SUN MUSIC HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100155
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest?cb=20240314123329" tvg-id="" tvg-name="" group-title="",SUN NEWS
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100156
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" tvg-id="1" tvg-name="" group-title="",SUN TV HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100157
+
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Tata_Play_2022.svg/revision/latest?cb=20220126062235" tvg-id="" tvg-name="" group-title="",TATA SKY TAMIL CINEMA
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100159
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Thanthi_TV.png/revision/latest?cb=20171213114435" tvg-id="" tvg-name="" group-title="",THANTHI TV
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100160
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047" tvg-id="" tvg-name="" group-title="",VIJAY SUPER HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100167
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" tvg-id="4" tvg-name="" group-title="",ZEE TAMIL HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100169
+
+
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest?cb=20200324034033" tvg-id="" tvg-name="" group-title="",ZEE THIRAI
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100171
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="",Isai Aruvi
@@ -85,8 +115,3 @@ https://mpd-v1.bigcric.site/api/239.mpd
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/SONY_YAY.png/revision/latest?cb=20221023221825" tvg-name="" group-title="",SONY YAY
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100152
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=200&key
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
-https://mpd-v1.bigcric.site/api/200.mpd
