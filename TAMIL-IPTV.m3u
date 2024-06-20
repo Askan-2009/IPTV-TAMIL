@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" tvg-id="1" tvg-name="" group-title="",SUN TV HD
+#EXTINF:-1, tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" tvg-id="1" tvg-name="" group-title="",SUN TV HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100157
 #EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507" tvg-id="3" tvg-name="" group-title="",STAR VIJAY HD
 http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100153
