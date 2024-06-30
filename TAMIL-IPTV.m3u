@@ -1,116 +1,213 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" tvg-id="1" tvg-name="" group-title="",SUN TV HD
-https://c2ag.short.gy/joker?id=896&e=.m3u8
-#EXTINF:-1,tvg-chno="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png/revision/latest?cb=20210306234507" tvg-id="3" tvg-name="" group-title="",STAR VIJAY HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100153
-#EXTINF:-1,tvg-chno="3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" tvg-id="4" tvg-name="" group-title="",ZEE TAMIL HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100169
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=1281&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_1260 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTAMCL_Thumbnail-v1/TPTAMCL_Thumbnail.png",Tata Play Tamil Classics
+https://mpd-v1.bigcric.site/api/1260.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=1258&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_1182 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee-THIRAI-WHITE-LOGO_2000_X_1125_Transpharent.png",Zee Thirai HD
+https://mpd-v1.bigcric.site/api/1182.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=1181&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_1167 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPHLT_Thumbnail-v4/TPHLT_Thumbnail.png",Tata Play Hollywood Local Tamil
+https://mpd-v1.bigcric.site/api/1167.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=1165&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_968 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png",News Tamil 24x7
+https://mpd-v1.bigcric.site/api/968.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=966&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_797 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",Zee Thirai
+https://mpd-v1.bigcric.site/api/797.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=708&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_702 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG",News J
+https://mpd-v1.bigcric.site/api/702.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=701&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_674 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",Colors Tamil HD
+https://mpd-v1.bigcric.site/api/674.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=658&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_647 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png",Isaiaruvi
+https://mpd-v1.bigcric.site/api/647.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=646&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_611 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png",Sirippoli
+https://mpd-v1.bigcric.site/api/611.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=608&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_608 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",Zee Tamil HD
+https://mpd-v1.bigcric.site/api/608.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=605&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png",Raj News Tamil
+https://mpd-v1.bigcric.site/api/525.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=524&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_524 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png",Thanthi TV
+https://mpd-v1.bigcric.site/api/524.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=523&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD
+https://mpd-v1.bigcric.site/api/521.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=518&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_509 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png",Polimer News
+https://mpd-v1.bigcric.site/api/509.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=507&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_499 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png",Vasanth TV
+https://mpd-v1.bigcric.site/api/499.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=497&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
+https://mpd-v1.bigcric.site/api/496.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=492&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_474 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",Sun Life
+https://mpd-v1.bigcric.site/api/474.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=441&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_439 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",Raj TV
+https://mpd-v1.bigcric.site/api/439.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=420&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_418 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png",Colors Tamil
+https://mpd-v1.bigcric.site/api/418.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=417&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_411 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png",Murasu TV
+https://mpd-v1.bigcric.site/api/411.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=406&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_400 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png",Mega Musiq
+https://mpd-v1.bigcric.site/api/400.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=388&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_380 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD
+https://mpd-v1.bigcric.site/api/380.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=379&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_334 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDTAM_Thumbnail-v1/DDTAM_Thumbnail.png",DD Tamil
+https://mpd-v1.bigcric.site/api/334.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=278&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_272 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png",Polimer TV
+https://mpd-v1.bigcric.site/api/272.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=270&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_257 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",Zee Tamil
+https://mpd-v1.bigcric.site/api/257.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=256&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_220 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png",Puthiya Thalaimurai
+https://mpd-v1.bigcric.site/api/220.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=219&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_201 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png",J Movies
+https://mpd-v1.bigcric.site/api/201.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=200&key
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_200      
-tvg-chno="4" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
+#EXTINF:-1 tvg-id=tatasky_200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
 https://mpd-v1.bigcric.site/api/200.mpd
-#EXTINF:-1,  tvg-chno="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest?cb=20191224100831" tvg-id="" tvg-name="" group-title="",POLIMER TV
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100140
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png/revision/latest?cb=20240314115038" tvg-id="" tvg-name="" group-title="",COLORS TAMIL HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100109
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047" tvg-id="" tvg-name="" group-title="",VIJAY SUPER HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100167
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20240314122345"  tvg-id="" tvg-name="" group-title="",ADHTIYA TV
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100100
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20240314122637" tvg-id="" tvg-name="" group-title="",CHUTTI TV
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100108
-
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20240318082328" tvg-id="" tvg-name="" group-title="",DISCOVERY WORLD HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100113
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/History_TV18.jpg/revision/latest/scale-to-width-down/250?cb=20171207202924" tvg-id="" tvg-name="" group-title="",HISTORY TV18 HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100116
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Jaya_Movie.jpeg/revision/latest?cb=20191224112417",J MOVIES
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100121
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20240314121039" tvg-id="2" tvg-name="" group-title="",KTV HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100125
-#EXTINF:-1,NAT GEO WILD HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100135
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100136
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Polimer_News.jpeg/revision/latest?cb=20191224101515" tvg-id="" tvg-name="" group-title="",POLIMER NEWS
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100139
-
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436" tvg-id="" tvg-name="" group-title="",PUTHIYA THALIMURAI
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100141
-
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Sun_Life_2018.jpg/revision/latest?cb=20240315194602" tvg-id="" tvg-name="" group-title="",SUN LIFE
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100154
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20240314122158" tvg-id="" tvg-name="" group-title="",SUN MUSIC HD
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100155
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest?cb=20240314123329" tvg-id="" tvg-name="" group-title="",SUN NEWS
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100156
-
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Tata_Play_2022.svg/revision/latest?cb=20220126062235" tvg-id="" tvg-name="" group-title="",TATA SKY TAMIL CINEMA
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100159
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Thanthi_TV.png/revision/latest?cb=20171213114435" tvg-id="" tvg-name="" group-title="",THANTHI TV
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100160
-
-
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest?cb=20200324034033" tvg-id="" tvg-name="" group-title="",ZEE THIRAI
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100171
-#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="",Isai Aruvi
-https://www.beastplayer.tk/LiveTv/DenTv/master.m3u8?id=3709
-#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-logo="https://i.imgur.com/ZDXVWVQ.png" group-title="",Kalaignar Murasu
-https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=114&key
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=196&key
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_114 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="",Disney
-https://mpd-v1.bigcric.site/api/114.mpd
+#EXTINF:-1 tvg-id=tatasky_99 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png",D Tamil
+https://mpd-v1.bigcric.site/api/99.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=98&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id=tatasky_58 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png",News18 Tamil Nadu
+https://mpd-v1.bigcric.site/api/58.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=36&key
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tR6BhLgv/250x375-Sun-Music-HD-9013-a1f6d6ac-015b-4e0f-b756-bc331824e590-modified.png",Sun Music HD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+https://bq32.short.gy/sso?id=7896
 
  
-#EXTINF:-1 tvg-id=1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="",Sonic Nickelodeon
-https://mpd-v1.bigcric.site/api/127.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9CqvBX/unnamed-modified.png",Adithya TV
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=138&key
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_138 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="",Nick
-https://mpd-v1.bigcric.site/api/138.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=635&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5KdQRFN/image-Content-11734-j9kw60rc-m1.webp",Sun News HD
+https://sn.vodep39240327.workers.dev/stream/@Sunnewstamil/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=238&key
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_238 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="",Cartoon Network
-https://mpd-v1.bigcric.site/api/238.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=239&key
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTINF:-1 tvg-id=tatasky_239 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="",Pogo
-https://mpd-v1.bigcric.site/api/239.mpd
-
-
-#EXTINF:-1,  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/SONY_YAY.png/revision/latest?cb=20221023221825" tvg-name="" group-title="",SONY YAY
-http://sansat.net:88/02027092234115/BROF45SRPZJFXGG/100152
-
+                         
