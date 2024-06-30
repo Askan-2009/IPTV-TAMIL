@@ -80,7 +80,7 @@ https://mpd-v1.bigcric.site/api/524.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=523&key
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTINF:-1 tvg-id=tatasky_521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD
-https://mpd-v1.bigcric.site/api/521.mpd
+http://103.3.229.147:8084/r_suntv/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=518&key
